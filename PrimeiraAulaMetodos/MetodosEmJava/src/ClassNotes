@@ -1,0 +1,35 @@
+Professor -> Thiago Leite Carvalho
+
+Definição de Métodos
+    - É uma portção que é disponibilizada por uma classe
+    - É executado quando é feita uma requisição a ele (deve ser chamado)
+    - São responsáveis por definir e realizar um determinado comportamento
+
+Padrão de definição
+    <?visibilidade?> <?tipo?> <?modificador?> retorno nome (<?parâmetros?>) <?exceções?> corpo
+
+Exemplos
+    Nome_da_classe.Nome_do_metodo();
+    Nome_do_objeto.Nome_do_metodo();
+
+Assinatura de um método
+    - É a forma de identificar unicamente o método
+    - Ass = nome + parâmetros
+
+Construtor e Destrutor
+    - São métodos especiais usados na POO
+
+Mensagem
+    - É o ato de solicitar ao método que o mesmo execute
+    - Esta pode ser direcionada a um objeto ou a uma classe
+
+Passagem de parâmetros
+    - Pode ser por valor
+    - E por referência (endereço)
+
+Boas práticas
+    - Nomes curtos e descritivos
+    - Notação camelo
+    - Possuir entre 80 e 120 linhas (métodos auxiliares)
+    - Evite lista de parâmetros longas (acoplamentos muito fortes)
+    - Visibilidades adequadas

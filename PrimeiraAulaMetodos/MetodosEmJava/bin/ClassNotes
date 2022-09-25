@@ -33,3 +33,8 @@ Boas práticas
     - Possuir entre 80 e 120 linhas (métodos auxiliares)
     - Evite lista de parâmetros longas (acoplamentos muito fortes)
     - Visibilidades adequadas
+
+Sobrecarga de métodos
+    - Definir métodos para diferentes contextos, mas preservando seu nome
+    - Sobrecarga x Sobrescrita
+    - 
